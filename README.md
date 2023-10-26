@@ -6,4 +6,4 @@ https://drive.google.com/file/d/1zGUID9sr7qWIbHVafcLnsYkSlvluT7QG/view?usp=drive
 
 
 play online:
-https://snake.xmshind.repl.co
+https://xm-snake.vercel.app/
